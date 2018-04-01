@@ -1,5 +1,6 @@
 /*
 Teacher's App (TAPP)
+
 A program that enables users to create and maintain records of students.
 
 This project is licensed under the terms of the GNU GPLv3 license.
